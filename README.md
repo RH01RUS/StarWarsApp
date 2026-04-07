@@ -1,5 +1,16 @@
+![Android](https://img.shields.io/badge/Android-34-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-purple)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5-green)
+![Hilt](https://img.shields.io/badge/Hilt-2.48-blue)
+![Room](https://img.shields.io/badge/Room-2.6.1-brightgreen)
+![Retrofit](https://img.shields.io/badge/Retrofit-2.9.0-orange)
+![Coroutines](https://img.shields.io/badge/Coroutines-1.7.3-red)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![API](https://img.shields.io/badge/SWAPI-6%20categories-blueviolet)
 
 # Star Wars HoloNet - Приложение для просмотра вселенной Star Wars
+
+Современное Android-приложение с голографическим интерфейсом, офлайн-режимом и системой сравнения персонажей.
 
 ## 📱 О приложении
 
@@ -71,7 +82,7 @@ Star Wars HoloNet - это современное Android-приложение, 
 
 
 
-## 👨‍💻 Автор Рустам Хуаде
+## 👨‍💻 Для связи 
 
 			https://t.me/Khuade_Rustam
 			https://github.com/RH01RUS/
